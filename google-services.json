@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183707645633",
+    "project_id": "phone-verification-cce44",
+    "storage_bucket": "phone-verification-cce44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183707645633:android:2e8255e2baa10a43990640",
+        "android_client_info": {
+          "package_name": "com.example.ml_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183707645633-jkeka9u8ufofvbhj75hjqksogt2p6i02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA11c5uKUjbqZddHiDmXxTw14oE93leLuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183707645633-jkeka9u8ufofvbhj75hjqksogt2p6i02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
