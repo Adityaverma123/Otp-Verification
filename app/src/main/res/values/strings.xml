@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">M&amp;L-Task</string>
+    <string name="facebook_app_id">332747278270128</string>
+    <string name="fb_login_protocol_scheme">fb332747278270128</string>
 </resources>
